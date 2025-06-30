@@ -41,3 +41,7 @@ A full-stack secure authentication system built with **Spring Boot**, **React**,
 - Context API
 - Toastify for notifications
 - Deployed on Netlify
+
+![Spring Security Vault Screenshot](./SpringSecurityVault.png)
+
+
