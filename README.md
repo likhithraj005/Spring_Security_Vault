@@ -1,6 +1,6 @@
 # 🔐 Spring Security Vault
 
-A full-stack secure authentication system built with Spring Boot, React, and PostgreSQL. It uses Spring Security with JWT and OAuth2 (GitHub & Google) for authentication, includes email verification and password reset via OTP, and containerized backend deployment using Docker.
+A full-stack secure authentication system built with Spring Boot, React, and PostgreSQL. It uses Spring Security with JWT and OAuth2 (GitHub & Google) for authentication, includes email verification and password reset via JavaMailSender using the Brevo API, and containerized backend deployment using Docker.
 
 ## Live Demo
 
@@ -12,8 +12,9 @@ A full-stack secure authentication system built with Spring Boot, React, and Pos
 
 ## Features
 
-- User registration with email verification (OTP)
 - JWT-based login with cookie
+- JavaMailSender using the Brevo API
+- User registration with email verification via email OTP
 - Password reset via email OTP
 - GitHub OAuth2 login
 - Google OAuth2 login
@@ -30,8 +31,8 @@ A full-stack secure authentication system built with Spring Boot, React, and Pos
 - PostgreSQL
 - JWT
 - OAuth2 (GitHub, Google)
-- Mail API (OTP support)
-- Swagger UI for API documentation
+- JavaMailSender using the Brevo API (OTP support)
+- Swagger UI and Postman for API documentation
 - Used Docker to containerize the Spring Boot project and deployed it on Render
 
 **Frontend:**
