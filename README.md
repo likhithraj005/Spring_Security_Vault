@@ -7,6 +7,7 @@ A full-stack secure authentication system built with Spring Boot, React, and Pos
 - **Frontend (React)**: [https://springsecurityvault.netlify.app](https://springsecurityvault.netlify.app)
 - **Backend (Spring Boot)**: [https://springsecurity-deployment-latest.onrender.com](https://springsecurity-deployment-latest.onrender.com)
 - **Swagger UI**: [https://springsecurity-deployment-latest.onrender.com/api/v1.0/swagger-ui.html](https://springsecurity-deployment-latest.onrender.com/api/v1.0/swagger-ui.html)
+- **Postman Documentation**: [https://documenter.getpostman.com/view/29635048/2sB34bJhwp](https://documenter.getpostman.com/view/29635048/2sB34bJhwp)
 
 ---
 
